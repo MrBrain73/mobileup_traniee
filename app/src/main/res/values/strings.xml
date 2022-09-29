@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Список криптовалют</string>
+
+    <string name="icon_coin">Coin logo</string>
+    <string name="icon_error">Error logo</string>
+
+    <string name="usd_chip">USD</string>
+    <string name="eur_chip">EUR</string>
+
+    <string name="text_error">Случилась какая-то ошибка :(</string>
+    <string name="text_error_two">Попробуем снова?</string>
+    <string name="text_button_try_again">Попробовать</string>
+
+    <string name="text_title">Описание</string>
+    <string name="text_sub_title">Категории</string>
+</resources>
